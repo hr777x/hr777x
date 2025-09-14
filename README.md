@@ -78,7 +78,7 @@ const haneef = {
 - Automated ad management with **Node-cron**
 - **Real-time analytics** with Chart.js dashboards
 
-[🔗 View Project](test.souqy.io)
+[🔗 View Project](https://test.souqy.io)
 
 ---
 
@@ -89,7 +89,7 @@ const haneef = {
 - **Billboard advertising** in 3D environments
 - **Performance optimized** with efficient GLTF loading
 
-[🔗 Live Demo](test.emirati.com)
+[🔗 Live Demo](https://test.emirati.com)
 
 ---
 
@@ -100,7 +100,7 @@ const haneef = {
 - **Responsive design** with modern UI/UX
 - **Database optimization** for high-performance
 
-[🔗 View Project](ioq.app)
+[🔗 View Project](https://ioq.app)
 
 </div>
 
