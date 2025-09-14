@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haneef-ur-rehman)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haneefurrehman)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haneefr777@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+971507462169)
@@ -202,7 +202,7 @@ const haneefSkills: DeveloperSkills = {
 
 I'm passionate about building innovative web solutions that make a real impact. Whether you're looking for a **Full Stack Developer**, **React Specialist**, or someone who can bring **3D experiences to the web**, let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/haneef-ur-rehman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/haneefurrehman)
 [![Email](https://img.shields.io/badge/Email-haneefr777@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:haneefr777@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+971_507_462_169-green?style=for-the-badge&logo=whatsapp)](tel:+971507462169)
 
