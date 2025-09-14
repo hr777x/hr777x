@@ -139,7 +139,7 @@ const haneef = {
 
 ## 💼 Professional Experience
 
-### 🔥 Full Stack Developer | Code is Life (Remote - USA)
+### Full Stack Developer | Code is Life (Remote - USA)
 **Mar 2025 - Aug 2025**
 - Built **marketplace platform** with Stripe integration for GCC markets
 - Developed **analytics tracking system** with CTR/impressions data and **BigQuery** integration
@@ -148,13 +148,22 @@ const haneef = {
 - Optimized **REST APIs** for high performance and scalability
 - Deployed applications to **Google Cloud Platform** using **Cloud Run**
 
-### 🚂 Full Stack Developer Intern | Game Train (Pakistan)
+### Full Stack Developer Intern | Game Train (Pakistan)
 **Jul 2024 - Oct 2024**
 - Learned React hooks, Tailwind CSS, and **responsive design**
 - Built **secure REST APIs** with Express and JWT authentication
 - Worked with **MySQL databases** for data management
 - Created full-stack projects including **weather app** and **e-commerce platform**
 - Implemented **version control** workflows with Git and GitHub
+
+### Unity Developer Intern | Codematics Inc. (Pakistan)
+**Jun 2023 - Jul 2023**
+- Learned **3D development fundamentals** including object transformation and materials
+- Worked with **Unity animation systems** and timeline controls
+- Implemented **raycasting** for object detection and user interactions
+- Explored **game physics** and collision detection systems
+- Developed small **3D projects** to understand game development workflow
+- Gained foundation in **C# scripting** for Unity components
 
 ---
 
